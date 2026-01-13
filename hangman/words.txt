@@ -1,0 +1,13 @@
+python
+developer
+hangman
+algorithm
+function
+variable
+engineering
+computer
+placement
+repository
+github
+software
+application
